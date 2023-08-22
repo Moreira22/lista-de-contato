@@ -14,5 +14,6 @@ export function Button({ title, type = 'PRIMARY', ...rest }: Props) {
             <Title>{title}</Title>
         </Conteiner>
 
+
     )
 };
