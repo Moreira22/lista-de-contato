@@ -11,6 +11,7 @@ export function Routes() {
                 <StackRoutes />
             </NavigationContainer>
         </View>
-
+ 
+ 
     );
 }
